@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Exploring air pollution worldwide on Article on pollution and social inequality</title>
+    <title>Exploring Air Pollution Globally on Article on pollution and social inequality</title>
     <link>https://kvantropologsofie.github.io/socialdata2022.io/docs/pollution-worldwide/</link>
-    <description>Recent content in Exploring air pollution worldwide on Article on pollution and social inequality</description>
+    <description>Recent content in Exploring Air Pollution Globally on Article on pollution and social inequality</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://kvantropologsofie.github.io/socialdata2022.io/docs/pollution-worldwide/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -12,7 +12,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kvantropologsofie.github.io/socialdata2022.io/docs/pollution-worldwide/heatmap/heatmap/</guid>
-      <description>tekst</description>
+      <description>Some text</description>
     </item>
     
   </channel>
