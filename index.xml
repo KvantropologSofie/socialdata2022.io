@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Introduction on Article on pollution and social inequality</title>
+    <title>Introduction on Environmental Inequality</title>
     <link>https://kvantropologsofie.github.io/socialdata2022.io/</link>
-    <description>Recent content in Introduction on Article on pollution and social inequality</description>
+    <description>Recent content in Introduction on Environmental Inequality</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://kvantropologsofie.github.io/socialdata2022.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -12,9 +12,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kvantropologsofie.github.io/socialdata2022.io/docs/pollution-worldwide/mapping-pollution/mapping-pollution/</guid>
-      <description>Air pollution through time at different continents
-Air pollution through time at different continents
-Tekst om det</description>
+      <description>The highest levels of air pollution are around the equator in the whole period
+On this page, the distribution of air pollution is mapped globally, and it is quickly visible that air pollution is unequally distributed worldwide. The map below shows the levels of PM(2.5) on a country level in the years 2011 to 2017. With the slider, you can move through the years by dragging the handle. You can also zoom in on areas to see the country-wise differences in pollution levels, and by hovering over a country, you see the name of that country and the concentration of pollution for the chosen year.</description>
     </item>
     
     <item>
@@ -23,7 +22,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kvantropologsofie.github.io/socialdata2022.io/docs/pollution-DK/mapping-pollution/mapping_pollution/</guid>
-      <description>Tekst</description>
+      <description>There are differences in how air pollution is dispersed in Denmark
+Through this project we are mainly focusing on air pollution caused by particulate matter PM(2.5), as this is the most harmful type of pollution. However, to visualize that other kinds of pollution are distributed differently across a relatively small country such as Denmark, we are further mapping the distribution of NO2 and PM(10). In the map below it is possible to choose the type of pollution of interest by ticking off the boxes in the legend.</description>
     </item>
     
     <item>
@@ -32,8 +32,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kvantropologsofie.github.io/socialdata2022.io/docs/pollution-DK/mapping-social-inequality/mapping_inequality/</guid>
-      <description>tekst
-Tekst</description>
+      <description>There are differences in income and health across Danish municipalities In order to investigate whether there is environmental inequality in a Danish context we further map income distribution, the life expectancy of children born in 2015 and the average health expenses spent on each citizen across the Danish municipalities. By ticking off the boxes in the legend it is possible to look into the different factors and explore social inequality in Denmark.</description>
     </item>
     
     <item>
@@ -42,7 +41,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kvantropologsofie.github.io/socialdata2022.io/docs/pollution-worldwide/mapping-wealth/mapping-wealth/</guid>
-      <description>Tekst</description>
+      <description>Economic resources are unequally distributed worldwide
+The world map below shows GDP per capita in 2017. When you hover over you will find the name of the country, and you can further zoom in to explore region-wise differences. The colors show the approximate GDP per capita. Thus, countries with light red are having a lower GDP, while countries with dark red are having a higher GDP.
+The map shows that there are huge economical differences between countries in the world.</description>
     </item>
     
     <item>
@@ -51,7 +52,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kvantropologsofie.github.io/socialdata2022.io/docs/pollution-worldwide/pa-unequal-consequences/unequal-consequences/</guid>
-      <description>Tekst</description>
+      <description>Relations between death rates caused by air pollution and pollution levels in 2017 including population size and GDP
+We will now investigate the relations between pollution, income, and pollution-deaths globally through the plot below. On the y-axis we see the death rates, while we on the x-axis see the concentrations of PM(2.5). Each point represents a country, and the color of the point indicates the GDP. Moreover, the size of the point represents the size of each country&amp;rsquo;s population.</description>
     </item>
     
     <item>
@@ -69,9 +71,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kvantropologsofie.github.io/socialdata2022.io/docs/pollution-DK/mapping-relations/mapping_Relations/</guid>
-      <description>teksttekst
-Tekst
-</description>
+      <description>Scatter plots show the dynamics of air pollution and socioeconomic factors On this page we will dig further into the dynamics of air pollution and socioeconomic factors. Based on the plots, there are no clear signs of environmental inequality in a Danish context. Instead we observe that individuals living in municipalities with higher economic capital can expect to live longer, but also that both individuals from the municipalities with the lowest (Lolland) and highest (Rudersdal and Gentofte), are experiencing the same high concentrations of pollution.</description>
     </item>
     
   </channel>

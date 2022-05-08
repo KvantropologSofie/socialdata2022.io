@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Exploring pollution in Denmark on Article on pollution and social inequality</title>
+    <title>Exploring Pollution in Denmark on Environmental Inequality</title>
     <link>https://kvantropologsofie.github.io/socialdata2022.io/docs/pollution-DK/</link>
-    <description>Recent content in Exploring pollution in Denmark on Article on pollution and social inequality</description>
+    <description>Recent content in Exploring Pollution in Denmark on Environmental Inequality</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://kvantropologsofie.github.io/socialdata2022.io/docs/pollution-DK/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -12,7 +12,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kvantropologsofie.github.io/socialdata2022.io/docs/pollution-DK/mapping-pollution/mapping_pollution/</guid>
-      <description>Tekst</description>
+      <description>There are differences in how air pollution is dispersed in Denmark
+Through this project we are mainly focusing on air pollution caused by particulate matter PM(2.5), as this is the most harmful type of pollution. However, to visualize that other kinds of pollution are distributed differently across a relatively small country such as Denmark, we are further mapping the distribution of NO2 and PM(10). In the map below it is possible to choose the type of pollution of interest by ticking off the boxes in the legend.</description>
     </item>
     
     <item>
@@ -21,8 +22,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kvantropologsofie.github.io/socialdata2022.io/docs/pollution-DK/mapping-social-inequality/mapping_inequality/</guid>
-      <description>tekst
-Tekst</description>
+      <description>There are differences in income and health across Danish municipalities In order to investigate whether there is environmental inequality in a Danish context we further map income distribution, the life expectancy of children born in 2015 and the average health expenses spent on each citizen across the Danish municipalities. By ticking off the boxes in the legend it is possible to look into the different factors and explore social inequality in Denmark.</description>
     </item>
     
     <item>
@@ -31,9 +31,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kvantropologsofie.github.io/socialdata2022.io/docs/pollution-DK/mapping-relations/mapping_Relations/</guid>
-      <description>teksttekst
-Tekst
-</description>
+      <description>Scatter plots show the dynamics of air pollution and socioeconomic factors On this page we will dig further into the dynamics of air pollution and socioeconomic factors. Based on the plots, there are no clear signs of environmental inequality in a Danish context. Instead we observe that individuals living in municipalities with higher economic capital can expect to live longer, but also that both individuals from the municipalities with the lowest (Lolland) and highest (Rudersdal and Gentofte), are experiencing the same high concentrations of pollution.</description>
     </item>
     
   </channel>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Exploring Air Pollution Globally on Article on pollution and social inequality</title>
+    <title>Exploring Air Pollution Globally on Environmental Inequality</title>
     <link>https://kvantropologsofie.github.io/socialdata2022.io/docs/pollution-worldwide/</link>
-    <description>Recent content in Exploring Air Pollution Globally on Article on pollution and social inequality</description>
+    <description>Recent content in Exploring Air Pollution Globally on Environmental Inequality</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://kvantropologsofie.github.io/socialdata2022.io/docs/pollution-worldwide/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -12,9 +12,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kvantropologsofie.github.io/socialdata2022.io/docs/pollution-worldwide/mapping-pollution/mapping-pollution/</guid>
-      <description>Air pollution through time at different continents
-Air pollution through time at different continents
-Tekst om det</description>
+      <description>The highest levels of air pollution are around the equator in the whole period
+On this page, the distribution of air pollution is mapped globally, and it is quickly visible that air pollution is unequally distributed worldwide. The map below shows the levels of PM(2.5) on a country level in the years 2011 to 2017. With the slider, you can move through the years by dragging the handle. You can also zoom in on areas to see the country-wise differences in pollution levels, and by hovering over a country, you see the name of that country and the concentration of pollution for the chosen year.</description>
     </item>
     
     <item>
@@ -23,7 +22,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kvantropologsofie.github.io/socialdata2022.io/docs/pollution-worldwide/mapping-wealth/mapping-wealth/</guid>
-      <description>Tekst</description>
+      <description>Economic resources are unequally distributed worldwide
+The world map below shows GDP per capita in 2017. When you hover over you will find the name of the country, and you can further zoom in to explore region-wise differences. The colors show the approximate GDP per capita. Thus, countries with light red are having a lower GDP, while countries with dark red are having a higher GDP.
+The map shows that there are huge economical differences between countries in the world.</description>
     </item>
     
     <item>
@@ -32,7 +33,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kvantropologsofie.github.io/socialdata2022.io/docs/pollution-worldwide/pa-unequal-consequences/unequal-consequences/</guid>
-      <description>Tekst</description>
+      <description>Relations between death rates caused by air pollution and pollution levels in 2017 including population size and GDP
+We will now investigate the relations between pollution, income, and pollution-deaths globally through the plot below. On the y-axis we see the death rates, while we on the x-axis see the concentrations of PM(2.5). Each point represents a country, and the color of the point indicates the GDP. Moreover, the size of the point represents the size of each country&amp;rsquo;s population.</description>
     </item>
     
     <item>
