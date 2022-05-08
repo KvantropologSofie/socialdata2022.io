@@ -3,10 +3,10 @@
 <head>
   <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="textTekst">
+<meta name="description" content="Before zooming in on Denmark, we will investigate whether we can predict deaths caused by air pollution in 2017 based on the past. Being able to predict future death rates can tell us whether we are doing enough to decrease air pollution. Furthermore, by examining the feature importance in our model, we might also gain insight into which factors are causing pollution deaths. We create a model that predicts air pollution death rates based on a range of factors such as health expenditure, concentration of PM(2.">
 <meta name="theme-color" content="#FFFFFF">
 <meta name="color-scheme" content="light dark"><meta property="og:title" content="Predicting Deaths Caused by Air Pollution" />
-<meta property="og:description" content="textTekst" />
+<meta property="og:description" content="Before zooming in on Denmark, we will investigate whether we can predict deaths caused by air pollution in 2017 based on the past. Being able to predict future death rates can tell us whether we are doing enough to decrease air pollution. Furthermore, by examining the feature importance in our model, we might also gain insight into which factors are causing pollution deaths. We create a model that predicts air pollution death rates based on a range of factors such as health expenditure, concentration of PM(2." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://kvantropologsofie.github.io/socialdata2022.io/docs/pollution-worldwide/Predicting-death/predicting-death/" /><meta property="article:section" content="docs" />
 
@@ -262,15 +262,17 @@ https://github.com/alex-shpak/hugo-book
       
   <article class="markdown"><p>
   <img src="https://github.com/KvantropologSofie/socialdata2022.io/blob/main/pictures%20and%20titles/pictures%20and%20titles/predicting.PNG?raw=true" alt="&amp;ldquo;Hej&amp;rdquo;" /></p>
+<p>Before zooming in on Denmark, we will investigate whether we can predict deaths caused by air pollution in 2017 based on the past. Being able to predict future death rates can tell us whether we are doing enough to decrease air pollution. Furthermore, by examining the feature importance in our model, we might also gain insight into which factors are causing pollution deaths.
 <div class="book-columns flex flex-wrap">
 
   <div class="flex-even markdown-inner">
-    text
+    We create a model that predicts air pollution death rates based on a range of factors such as health expenditure, concentration of PM(2.5), GDP and the size of the population. As our dataset contains multiple years (from 2011 to 2017) for all respective countries, we aim to predict the air pollution death rates in 2017.
+<br> <br>
+The relationship between different attributes is shown in the correlation matrix. A dark red color indicates high positive correlation, while a light red color indicates high negative correlation. Based on the matrix it is evident that the air pollution death rate is highly correlated with GDP, PM(2.5), health expenditure and Cardiovascular disease death rate. This is not surprising, as we found patterns of countries with lower GDP&rsquo;s being exposed to higher concentrations of PM(2.5), while also experiencing higher death rates caused by pollution.
   </div>
 
   <div class="flex-even markdown-inner">
-    <br>
-<figure>
+    <figure>
     <img src="https://raw.githubusercontent.com/KvantropologSofie/socialdata2022.io/main/pictures%20and%20titles/predicting_correlationmatrix.png"
           width="600" height="600">
 </figure>
@@ -278,10 +280,12 @@ https://github.com/alex-shpak/hugo-book
   </div>
 
 </div>
+</p>
+<p>Based on Figure B it is evident that we, based on the random forest regressor, are able to obtain quite accurate predictions of the number of pollution deaths in 2017. The model is showing a clear linear relation with no significant outliers, thereby indicating that our model is performing relatively well. 
+Figure A reports the feature importance of the features including in the model. Based on the figure, it is evident that the attribute Cardiovascular disease death rate is weighted the highest. However, many air-pollution deaths are, according to WHO, attributable to cardiovascular disease, which might explain the high importance of this feature (Kim et. al 2020). We further observe that features such as PM(2.5), Asia and <em>GDP</em> are  significant predictors of death rates.
+<br><br>
 
-<p>
   <img src="https://raw.githubusercontent.com/KvantropologSofie/socialdata2022.io/main/pictures%20and%20titles/Results%20random%20forrest.png" alt="&amp;ldquo;Hej&amp;rdquo;" /></p>
-<p>Tekst</p>
 </article>
  
       
